@@ -1,0 +1,13 @@
+Practice using vectors.
+(15 points total)
+Write a complete c++ program that uses 2 vectors, 1 for names (strings) and 1 for grades (longs).
+[2 points for declaring the vectors correctly]
+a. Ask the user for the number of name/grade pairs that will be entered. [1 point]
+b. Get each of the names and grades. [3 points]
+c. Display the mean of the grades [3 points]
+d. Display the median of the grades [3 points]
+e. Display the mode of the grades. [2 points] Display the names of the students with the mode
+as their grade. [1 point]
+f. 3 points bonus: Make part e work even when the grades list is multi modal.
+Use the sort algorithm built into the C++ STL to sort your list when needed.
+Example of sort from http://www.cplusplus.com/reference/algorithm/sort/
